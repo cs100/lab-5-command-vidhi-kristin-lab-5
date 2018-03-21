@@ -1,3 +1,6 @@
+# **Completed and archived in Winter 2018
+
+
 # Command Pattern
 **You *must* work in a group of two for this lab**
 
